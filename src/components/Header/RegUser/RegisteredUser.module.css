@@ -1,0 +1,17 @@
+.my_account{
+  color: #414a5d;
+  display: inline-block;
+}
+.list_account li{
+  cursor: pointer;
+  padding-left: 10px;
+}
+.list_account li:nth-child(2){
+  color: #6c757d;
+}
+#user_name{
+  font-weight: 500;
+}
+#user_name svg{
+  margin-right: 0.3rem;
+}

@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e029e61a-eae6-4904-86fa-a21ec085a7a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/ModalWindow/ModalWindow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/ModalWindow/ModalWindow.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/RegUser/RegisteredUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/RegUser/RegisteredUser.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/UnregUser/UnregisteredUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/UnregUser/UnregisteredUser.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/HomePage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/SearchPanel/SearchPanel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/SearchPanel/SearchPanel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/Transaction/Transaction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/Transaction/Transaction.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/transfer_deposit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/transfer_payment.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RCTypv0HdUOLAKuo0BPHjp56qY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/React/to_do_list" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\osisp2\kursach\src\components\HomePage\Transaction" />
+      <recent name="D:\osisp2\kursach\src\components\Header\UnregUser" />
+      <recent name="D:\osisp2\kursach\src\components\Header\RegUser" />
+      <recent name="D:\osisp2\kursach\src\components\Header\ModalWindow" />
+      <recent name="D:\osisp2\kursach\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\osisp2\kursach\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e029e61a-eae6-4904-86fa-a21ec085a7a7" name="Default Changelist" comment="" />
+      <created>1569170334258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569170334258</updated>
+      <workItem from="1569170336173" duration="784000" />
+      <workItem from="1569441622815" duration="52000" />
+      <workItem from="1569441861169" duration="14239000" />
+      <workItem from="1569491626072" duration="4421000" />
+      <workItem from="1569529857289" duration="11459000" />
+      <workItem from="1569615898942" duration="1722000" />
+      <workItem from="1569618052414" duration="8242000" />
+      <workItem from="1569679347304" duration="14369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

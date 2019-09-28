@@ -1,0 +1,17 @@
+.transactions{
+    width: 560px;
+    background-color: white;
+    border-radius: 2px;
+}
+.dropdown{
+    height: 30px;
+    font-size: .9rem;
+}
+.more_tr_btn{
+    color: steelblue;
+}
+.more_tr_btn:hover{
+    text-decoration: none;
+    color: #ff3333;
+    cursor: pointer;
+}

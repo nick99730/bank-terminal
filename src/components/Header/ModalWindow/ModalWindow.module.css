@@ -1,0 +1,11 @@
+.text_center{
+    margin-left: 1rem;
+    text-align: center;
+    width: 100%;
+}
+.no_shadow > button:focus {
+    outline: none;
+}
+.no_border:focus{
+    border-color: #ced4da;
+}

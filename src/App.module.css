@@ -1,3 +1,6 @@
+body{
+  background-color: #f6f5f3;
+}
 .App {
   text-align: center;
 }
@@ -19,4 +22,7 @@
 
 .App-link {
   color: #09d3ac;
+}
+.content{
+  min-height: calc(100vh - 3rem);
 }
