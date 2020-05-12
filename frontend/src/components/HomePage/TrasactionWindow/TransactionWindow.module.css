@@ -1,0 +1,25 @@
+.tr_window {
+    position: absolute;
+    background-color: white;
+    border-radius: 2px;
+    width: 16rem;
+}
+
+.close_btn {
+    cursor: pointer;
+}
+
+.border {
+    border-bottom: 1px solid #ced4da;
+}
+
+.font_light {
+    font-size: .8rem;
+    color: #6c757d;
+}
+
+.font_balance {
+    text-align: right;
+    font-size: .6rem;
+    color: #6c757d;
+}

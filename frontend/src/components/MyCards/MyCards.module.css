@@ -1,0 +1,35 @@
+.form {
+    width: 560px;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.your_cards {
+    min-height: calc(100vh - 10rem);
+}
+
+.d_block {
+    display: block !important;
+}
+
+.data_input {
+    border-color: #ced4da;
+    border-radius: 2px;
+    background-color: #f6f5f3;
+}
+
+.data_input:focus {
+    border-color: #ced4da;
+}
+
+.successfullyAdd {
+    min-height: calc(100vh - 11rem);
+}
+
+.success_message {
+    color: darkgreen;
+}
+
+.error_message {
+    color: #ff3333;
+}

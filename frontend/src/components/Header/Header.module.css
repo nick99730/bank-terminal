@@ -1,0 +1,58 @@
+ul {
+    margin: auto;
+}
+
+.full_header {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.top_menu {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.list_menu li > a {
+    color: #6c757d;
+    padding-bottom: 8px;
+}
+
+.list_menu li > a:hover {
+    text-decoration: none;
+    color: #ff3333;
+}
+
+.list_menu li:hover {
+    cursor: pointer;
+    color: #ff3333;
+}
+
+.list_menu li > a.active_link {
+    font-weight: bold;
+    border-bottom: 2px solid #ff3333;
+}
+
+.money_amt {
+    font-family: 'Pathway Gothic One', sans-serif;
+    display: inline-flex;
+    font-size: 2rem;
+}
+
+.fract_prt {
+    color: #6b8677;
+}
+
+.logo_initials {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #ff3333;
+    border-right: 0.15rem solid #6c757d;
+}
+
+.money_btn {
+    font-family: "Segoe UI", sans-serif;
+    color: #6b8677;
+    font-size: 1rem;
+    cursor: pointer;
+}

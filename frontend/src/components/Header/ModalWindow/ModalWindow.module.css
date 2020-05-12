@@ -1,0 +1,36 @@
+.text_center {
+    margin-left: 1rem;
+    text-align: center;
+    color: #6c757d;
+    width: 100%;
+}
+
+.no_shadow > button:focus {
+    outline: none;
+}
+
+.d_block {
+    display: block !important;
+}
+
+.eye {
+    position: relative;
+    cursor: pointer;
+    left: -50px;
+    color: #6c757d;
+}
+
+.no_border {
+    width: 25rem;
+    border-radius: 2px;
+    background-color: #f6f5f3;
+}
+
+.no_border:focus {
+    border-color: #ced4da;
+}
+
+.button_login {
+    color: black;
+    background-color: #FB8C00;
+}

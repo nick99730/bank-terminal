@@ -1,0 +1,25 @@
+.my_account {
+    color: #6b8677;
+    display: inline-block;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.list_account li {
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.list_account li:nth-child(2) {
+    border-left: 1px solid #868e96;
+}
+
+li > a {
+    text-decoration: none;
+    color: #6b8677;
+}
+
+li > a:hover {
+    text-decoration: none;
+    color: #6b8677;
+}

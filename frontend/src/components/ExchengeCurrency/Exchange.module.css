@@ -1,0 +1,9 @@
+.exchange_block {
+    background-color: white;
+    border-radius: 2px;
+    width: 560px;
+}
+
+.exchange_page {
+    min-height: calc(100vh - 12rem);
+}

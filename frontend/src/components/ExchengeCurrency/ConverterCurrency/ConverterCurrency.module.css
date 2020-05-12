@@ -1,0 +1,18 @@
+.d_block {
+    display: block !important;
+}
+
+.exchange_block {
+    background-color: white;
+    border-radius: 2px;
+    width: 560px;
+}
+
+.form_control {
+    background-color: #f6f5f3 !important;
+    width: 12rem;
+}
+
+.no_shadow:focus {
+    border-color: #ced4da;
+}

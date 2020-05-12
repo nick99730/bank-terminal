@@ -1,0 +1,114 @@
+.cashback_window {
+    width: 560px;
+    background-color: white;
+    border-radius: 2px;
+    height: 10rem;
+}
+
+.terms {
+    font-size: 1.1rem;
+    font-family: Roboto, sans-serif;
+}
+
+.promo {
+    width: 100%;
+    font-weight: bold;
+    font-family: Segoe UI, sans-serif;
+    font-size: 1.5rem;
+}
+
+.first_line {
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: white;
+    border-color: #ced4da;
+    color: #868e96;
+}
+
+.btn {
+    color: #4c4846;
+    font-size: .8rem;
+    width: 2rem;
+    height: 2rem;
+    z-index: 999;
+    border-color: #ced4da;
+}
+
+.btn:focus {
+    color: #4c4846;
+    background-color: white;
+    border-color: #ced4da;
+}
+
+.no_shadow:focus {
+    box-shadow: none;
+}
+
+.form_control {
+    font-size: .8rem;
+    border-radius: 2px;
+}
+
+.form_control:focus {
+    border: 2px solid #ffe109;
+}
+
+.cust_btn:active {
+    border-color: #ced4da !important;
+    color: #4c4846 !important;
+    background-color: white !important;
+}
+
+.lorem {
+    font-size: .8rem;
+}
+
+.cust_btn {
+    width: 3rem;
+    font-size: .8rem;
+}
+
+.cust_btn:active:focus {
+    box-shadow: none !important;
+}
+
+.slide {
+    font-family: 'Open Sans', sans-serif;
+    height: 10rem;
+}
+
+.title {
+    z-index: 999;
+    font-size: 1.2rem;
+}
+
+.about_me_info {
+    color: #6c757d;
+    border-bottom: 2px solid #f6f5f3;
+    border-top: 2px solid #f6f5f3;
+}
+
+.about_me_info:hover {
+    border-color: #ffe109;
+}
+
+.i {
+    color: #282c34;
+}
+
+.select_label {
+}
+
+.sender_input {
+    width: 11rem;
+}
+
+.amt_input {
+    width: 5rem;
+}
+
+.bnf_input {
+    width: 11rem;
+}
